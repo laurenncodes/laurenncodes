@@ -21,7 +21,7 @@ I'm a **GRC and Identity Engineer** with experience across two regulated environ
 
 My IGA background covers privileged access monitoring, user access reviews, and RBAC analysis — work that demands precision in regulated settings where access decisions carry real accountability.
 
-On the compliance engineering side, I build **AWS-native tools** that automate audit evidence collection and compliance workflows — turning manual, error-prone processes into repeatable, scriptable, auditor-ready outputs mapped directly to **NIST 800-53 Rev 5**, **FedRAMP High**, and **CJIS Security Policy v6.0**.
+On the compliance engineering side, I build **AWS-native tools** that automate audit evidence collection and compliance workflows turning manual, error-prone processes into repeatable, scriptable, auditor-ready outputs mapped directly to **NIST 800-53 Rev 5**, **FedRAMP High**, and **CJIS Security Policy v6.0**.
 
 | 🏛️ Public Safety Technology | 🔐 Identity & Access Governance | ⚙️ Compliance Automation |
 |:---:|:---:|:---:|
