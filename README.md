@@ -21,12 +21,6 @@
 
 I'm a **Senior GRC Engineer** who believes compliance shouldn't slow organizations down — it should empower them to move faster with confidence. With deep expertise across **AWS, Azure, and GCP** security architectures, I combine engineering rigor with compliance knowledge to build automated, scalable GRC programs.
 
-My clients achieve certifications faster, pass audits on the first attempt, and maintain **continuous compliance** without the manual overhead. I've worked with **50+ organizations** across healthcare, fintech, SaaS, and government sectors.
-
-| 🏆 100% Audit Pass Rate | ⚡ Up to 85% Less Manual Work | 🔒 Cloud-Native Expertise |
-|:---:|:---:|:---:|
-| First-attempt certification success | Automation-first approach | AWS · Azure · GCP |
-
 ---
 
 ## 🛠️ Technical Stack
@@ -127,18 +121,6 @@ My clients achieve certifications faster, pass audits on the first attempt, and 
 | **FedRAMP Authorization** | Full FedRAMP authorization package development and 3PAO liaison |
 | **Cloud Security Architecture** | AWS, Azure, GCP security design and implementation |
 | **Risk Management Programs** | Enterprise risk frameworks, vendor risk, and continuous monitoring |
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Lauren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laurennwegbo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laurennwegbo&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
