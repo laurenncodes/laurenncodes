@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/laurennwegbo" width="120" style="border-radius: 50%;" alt="Lauren Nwegbo"/>
+<img src="https://avatars.githubusercontent.com/laurenncodes" width="120" style="border-radius: 50%;" alt="Lauren Nwegbo"/>
 
 # Lauren Nwegbo
 
 ### Senior GRC Engineer · Cloud Security Architect · Compliance Automation
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-laurennwegbo.com-4A90E2?style=for-the-badge)](https://laurennwegbo.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lauren_Nwegbo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/laurennwegbo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lauren_Nwegbo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauren-alex-igwe-18a66816b/)
 [![Email](https://img.shields.io/badge/Email-laurennwegbo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laurennwegbo@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Fort_Worth,_TX-USA-green?style=for-the-badge)](#)
 
@@ -19,7 +19,13 @@
 
 > *"I help organizations build secure, compliant cloud infrastructures with automation-first GRC engineering."*
 
-I'm a **Senior GRC Engineer** who believes compliance shouldn't slow organizations down. it should empower them to move faster with confidence. With deep expertise across **AWS, Azure, and GCP** security architectures, I combine engineering rigor with compliance knowledge to build automated, scalable GRC programs.
+I'm a **Senior GRC Engineer** who believes compliance shouldn't slow organizations down — it should empower them to move faster with confidence. With deep expertise across **AWS, Azure, and GCP** security architectures, I combine engineering rigor with compliance knowledge to build automated, scalable GRC programs.
+
+My clients achieve certifications faster, pass audits on the first attempt, and maintain **continuous compliance** without the manual overhead. I've worked with **50+ organizations** across healthcare, fintech, SaaS, and government sectors.
+
+| 🏆 100% Audit Pass Rate | ⚡ Up to 85% Less Manual Work | 🔒 Cloud-Native Expertise |
+|:---:|:---:|:---:|
+| First-attempt certification success | Automation-first approach | AWS · Azure · GCP |
 
 ---
 
@@ -64,51 +70,22 @@ I'm a **Senior GRC Engineer** who believes compliance shouldn't slow organizatio
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Repositories & Projects
 
-> Open-source tools and frameworks I've built — battle-tested in production environments.
-> View all projects at **[laurennwegbo.com/#portfolio](https://laurennwegbo.com/#portfolio)**
+> Open-source GRC tools and automation frameworks — battle-tested in production environments.
+> Full portfolio at **[laurennwegbo.com/#portfolio](https://laurennwegbo.com/#portfolio)**
 
-<!-- Replace the cards below with your actual repositories -->
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🔐 GRC Automation Framework</h3>
-      <p>Automation-first compliance tooling for SOC 2, ISO 27001, and FedRAMP. Reduces manual audit effort by up to 85%.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-      <br/><br/>
-      <a href="https://github.com/laurennwegbo">📂 View Repository →</a>
-    </td>
-    <td width="50%">
-      <h3>☁️ Cloud Security Toolkit</h3>
-      <p>Scripts and templates for hardening AWS, Azure, and GCP environments against CIS Benchmarks and NIST controls.</p>
-      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
-      <br/><br/>
-      <a href="https://github.com/laurennwegbo">📂 View Repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📊 Risk Assessment Tooling</h3>
-      <p>Vendor risk and third-party assessment templates and scoring automation for enterprise environments.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <br/><br/>
-      <a href="https://github.com/laurennwegbo">📂 View Repository →</a>
-    </td>
-    <td width="50%">
-      <h3>🛡️ Incident Response Playbooks</h3>
-      <p>Structured incident response playbooks aligned with NIST SP 800-61 for cloud-native organizations.</p>
-      <img src="https://img.shields.io/badge/Documentation-FF6B35?style=flat-square"/>
-      <img src="https://img.shields.io/badge/NIST-003087?style=flat-square"/>
-      <br/><br/>
-      <a href="https://github.com/laurennwegbo">📂 View Repository →</a>
-    </td>
-  </tr>
-</table>
+| # | Project | Description | Link |
+|:---:|---------|-------------|:----:|
+| 🔐 | **iam-audit** | Automated IAM permissions auditing tool that scans AWS accounts for over-privileged users, roles, and policies — generating a risk-prioritized report. | [→ Repo](https://github.com/laurenncodes/iam-audit) |
+| 🛡️ | **aws-sg-audit** | Security group auditing script that flags overly permissive inbound/outbound rules across all AWS regions and VPCs. | [→ Repo](https://github.com/laurenncodes/aws-sg-audit) |
+| 📋 | **cloudtrail-audit** | CloudTrail log analysis tool for identifying suspicious activity, IAM privilege escalation, and unauthorized API calls. | [→ Repo](https://github.com/laurenncodes/cloudtrail-audit) |
+| 📊 | **compliance-report** | Automated compliance report generator mapping AWS resource configurations to SOC 2, ISO 27001, and NIST controls. | [→ Repo](https://github.com/laurenncodes/compliance-report) |
+| 🗂️ | **evidence-logger** | Audit evidence collection and logging tool for continuous compliance — automatically captures and timestamps control evidence for auditors. | [→ Repo](https://github.com/laurenncodes/evidence-logger) |
+| 🔄 | **aws_automated_access_review** | Automated periodic access review workflow for AWS IAM, surfacing stale accounts, unused roles, and access anomalies. | [→ Repo](https://github.com/laurenncodes/aws_automated_access_review) |
+| 🔍 | **security-hub-compliance-analyzer** | Analyzes AWS Security Hub findings and maps them to compliance frameworks, prioritizing remediations by risk score. | [→ Repo](https://github.com/laurenncodes/security-hub-compliance-analyzer) |
+| 🏗️ | **aws-compliance-as-code** | Terraform-based infrastructure-as-code templates that encode compliance controls directly into AWS resource provisioning. | [→ Repo](https://github.com/laurenncodes/aws-compliance-as-code) |
+| 📡 | **aws-config-compliance-monitor** | Continuous AWS Config rule monitoring with real-time alerting and compliance drift detection across multi-account environments. | [→ Repo](https://github.com/laurenncodes/aws-config-compliance-monitor) |
 
 ---
 
@@ -131,10 +108,10 @@ I'm a **Senior GRC Engineer** who believes compliance shouldn't slow organizatio
 I'm available for consulting, advisory engagements, and speaking opportunities.
 
 [![Portfolio](https://img.shields.io/badge/🌐_Website-laurennwegbo.com-4A90E2?style=for-the-badge)](https://laurennwegbo.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/laurennwegbo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauren-alex-igwe-18a66816b/)
 [![Email](https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laurennwegbo@gmail.com)
 
-*I typically respond within 24 hours.*
+*📍 Fort Worth, TX · I typically respond within 24 hours.*
 
 </div>
 
