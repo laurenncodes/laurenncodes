@@ -19,7 +19,7 @@
 
 > *"I help organizations build secure, compliant cloud infrastructures with automation-first GRC engineering."*
 
-I'm a **Senior GRC Engineer** who believes compliance shouldn't slow organizations down — it should empower them to move faster with confidence. With deep expertise across **AWS, Azure, and GCP** security architectures, I combine engineering rigor with compliance knowledge to build automated, scalable GRC programs.
+I'm a **Senior GRC Engineer** who believes compliance shouldn't slow organizations down. it should empower them to move faster with confidence. With deep expertise across **AWS, Azure, and GCP** security architectures, I combine engineering rigor with compliance knowledge to build automated, scalable GRC programs.
 
 ---
 
