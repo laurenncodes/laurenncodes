@@ -55,7 +55,7 @@ My work sits at the intersection of three disciplines:
 |---|---|
 | 🏆 **Certified Information Security Manager (CISM)** | ISACA |
 | 📋 **ISO 27001 Lead Auditor** | ISO/IEC |
-| 🤖 **ISO 42001 Lead Auditor** *(AI Management Systems)* | ISO/IEC |
+| 🤖 **ISO 42001 Lead Auditor** | ISO/IEC |
 | 🔍 **Certified Information Systems Auditor (CISA)** | ISACA |
 
 ---
@@ -70,8 +70,8 @@ My work sits at the intersection of three disciplines:
 ![CJIS](https://img.shields.io/badge/CJIS_Security_Policy_v6.0-1A1F71?style=flat-square)
 ![PCI DSS](https://img.shields.io/badge/PCI_DSS-1A1F71?style=flat-square)
 ![SOC2](https://img.shields.io/badge/SOC_2-FF6B35?style=flat-square)
-![ISO 27001](https://img.shields.io/badge/ISO_27001%2F27002-00529B?style=flat-square)
-![ISO 42001](https://img.shields.io/badge/ISO_27001%2F27002-00529B?style=flat-square)
+![ISO 27001](https://img.shields.io/badge/ISO_27001%2F27001-00529B?style=flat-square)
+![ISO 42001](https://img.shields.io/badge/ISO_42001%2F42001-00529B?style=flat-square)
 ![CMMC](https://img.shields.io/badge/CMMC-6E2B8B?style=flat-square)
 ![CIS](https://img.shields.io/badge/CIS_Controls-003087?style=flat-square)
 ![COBIT](https://img.shields.io/badge/COBIT-6E2B8B?style=flat-square)
